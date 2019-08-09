@@ -1,0 +1,21 @@
+name: "Erik Hermansson"
+navbar:
+  title: "Erik Hermansson"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+  right:
+   # - icon: fa-envelope fa-lg
+   #   href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/ehermansson
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/erik_A_herman
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/erik-hermansson-7145b7116/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
