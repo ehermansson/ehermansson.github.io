@@ -5,7 +5,7 @@
 
 <img src="/Users/erikhermansson/Desktop/profil_bild.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-I am currently a Mathematics student at Chalmers Univeristy of Technology in Gothenburg, Sweden. 
+I am currently an Engineering Mathematics student at Chalmers Univeristy of Technology in Gothenburg, Sweden. My main interest is in Data Science and its applications. Apart from that 
 
 
 
