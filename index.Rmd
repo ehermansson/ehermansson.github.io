@@ -9,7 +9,7 @@ I like to analyze data and learn new stuff, no matter the topic.
 
 I am an alumni of Union College, KY, where I studied Mathematics and Business Administration while playing Golf. Currently I am studying Engineering Mathematics student at Chalmers Univeristy of Technology in Gothenburg, Sweden. 
 
-My current intrest is data analytics, programming and risk. 
+My current intrest is data analytics, programming and risk. I can program R, MatLab and some C#.
 
 
 
