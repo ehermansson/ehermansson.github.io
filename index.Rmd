@@ -3,10 +3,10 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="/Users/erikhermansson/Desktop/profil_bild.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="fig/profil_bild.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
 I am currently an Engineering Mathematics student at Chalmers Univeristy of Technology in Gothenburg, Sweden. My main interest is in Data Science and its applications. Apart from that I am intrested in Probability Theory, Risk and Fat Tails. 
 
 
 
-My full CV is available [here](Files/Exjobb Ansökan/Eriks_CV-6.pdf).
+My full CV is available [here](Files//Eriks_CV-6.pdf).
