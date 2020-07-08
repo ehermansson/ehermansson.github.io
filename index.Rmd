@@ -5,6 +5,8 @@
 
 <img src="fig/profil_bild.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
+## Hej
+
 I like to analyze data and learn new stuff, no matter the topic.
 
 I am an alumni of Union College, KY, where I studied Mathematics and Business Administration while playing Golf. Currently I am currently pursuing a Masters Degreen in Engineering Mathematics at Chalmers Univeristy of Technology in Gothenburg, Sweden. 
